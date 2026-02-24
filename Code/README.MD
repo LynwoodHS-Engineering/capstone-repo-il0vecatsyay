@@ -63,5 +63,3 @@ void loop() {
 
   lastButtonState = buttonState; # update button state
 }
-
-
