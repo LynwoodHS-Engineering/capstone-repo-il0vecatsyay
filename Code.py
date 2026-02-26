@@ -13,7 +13,7 @@ const int Beep   = 12; # Buzzer pin
 int lastButtonState = HIGH; #INPUT_PULLUP (not pressed = HIGH)
 
 void setup() {
-  # Motor pins connection to the Arduino board
+  # Motor pins functions to arduino board
   pinMode(ENB, OUTPUT);
   pinMode(IN4, OUTPUT);
   pinMode(IN3, OUTPUT);
@@ -21,15 +21,15 @@ void setup() {
   pinMode(IN1, OUTPUT);
   pinMode(IN2, OUTPUT);
 
-  #Button and Buzzer connection to the Arduino board
+  #Button and Buzzer functions to arduino board
   pinMode(Button, INPUT_PULLUP);
   pinMode(Beep, OUTPUT);
 }
 
 void beepOnce() {
   tone(Beep, 1000); # 1000 Hz beep
-  delay(200);       # 0.2 s
-  noTone(Beep);
+  delay(200);       # wait 0.2 s
+  noTone(Beep);     
 }
 
 void loop() {
