@@ -1,5 +1,4 @@
 #Named variables for motor pins
-
 const int ENB = 3;   # Enable pin B
 const int IN4 = 4;   # Input 4
 const int IN3 = 5;   # Input 3
@@ -8,7 +7,6 @@ const int IN1 = 8;   # Input 1
 const int IN2 = 7;   # Input 2
 
 #Named variables for button and buzzer pins
-
 const int Button = 2;  # Button with INPUT_PULLUP
 const int Beep   = 12; # Buzzer pin
 
@@ -16,7 +14,6 @@ int lastButtonState = HIGH; #INPUT_PULLUP (not pressed = HIGH)
 
 void setup() {
   # Motor pins connection to the Arduino board
-
   pinMode(ENB, OUTPUT);
   pinMode(IN4, OUTPUT);
   pinMode(IN3, OUTPUT);
@@ -25,7 +22,6 @@ void setup() {
   pinMode(IN2, OUTPUT);
 
   #Button and Buzzer connection to the Arduino board
-
   pinMode(Button, INPUT_PULLUP);
   pinMode(Beep, OUTPUT);
 }
@@ -38,7 +34,6 @@ void beepOnce() {
 
 void loop() {
   int buttonState = digitalRead(Button);
-
 
   if (lastButtonState == HIGH && buttonState == LOW) {
     beepOnce(); # beep when button is pressed
