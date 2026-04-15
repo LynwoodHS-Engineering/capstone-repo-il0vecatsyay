@@ -7,3 +7,7 @@ The idea for our mechanism is similar to a Nerf gun, we're using gears and sprin
 
 Beginning look of our prototype 
 ![IMG_8952](https://github.com/user-attachments/assets/87a147b0-8ba2-49f9-ae84-b013784c5bfb)
+
+Now in the middle of our project we have made significant changes and improvements to our project. 
+
+We have 
