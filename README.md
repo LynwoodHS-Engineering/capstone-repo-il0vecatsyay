@@ -11,6 +11,3 @@ Beginning look of our prototype
 Now in the middle of our project we have made significant changes and improvements to our project. 
 
 We have 
-
-Code progress documented 
-![code](https://docs.google.com/document/d/1aygtcGMryrG_v3qcCS58LXSgcec-9Tg7EqTyxFDKlqY/edit?usp=sharing)
