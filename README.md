@@ -9,7 +9,7 @@ Beginning look of our prototype
 ![IMG_8952](https://github.com/user-attachments/assets/87a147b0-8ba2-49f9-ae84-b013784c5bfb)
 
 This is a documentation of our functioning codes since the beginning of the project till now to keep track of all our code. 
-![Code Notes](https://docs.google.com/document/d/1aygtcGMryrG_v3qcCS58LXSgcec-9Tg7EqTyxFDKlqY/edit?usp=sharing)
+[Code Notes](https://docs.google.com/document/d/1aygtcGMryrG_v3qcCS58LXSgcec-9Tg7EqTyxFDKlqY/edit?usp=sharing)
 
 
 Now in the middle of our project we have made significant changes and improvements to our project. 
