@@ -5,7 +5,7 @@ The product will be a boxed mechanism placed on top of your arm, held by a velcr
 The idea for our mechanism is similar to a Nerf gun; we're using gears and springs to lock the springs in place. Once it's locked in, it will launch out and reel back to its original position. We're also using two motors to power the gears along with batteries. The button switch is programmed through our code in Arduino, along with the Piezo buzzer. Inside the boxed arm, we have multiple wires hooked to the Arduino board that power the button switch, LN298 board, and piezo buzzer. 
 
 
-Beginning look of our prototype 
+# Beginning look of our prototype 
 ![IMG_8952](https://github.com/user-attachments/assets/87a147b0-8ba2-49f9-ae84-b013784c5bfb)
 
 # Halfway mark !
