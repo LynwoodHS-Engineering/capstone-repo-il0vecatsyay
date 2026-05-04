@@ -31,7 +31,13 @@ The "Web" Shooter is a projectile launcher that launches out a foam ball when th
 
 
 # Design Evaluation 
+The succes of our project is at 90% because it does as intended, but the only issue is the air runs out quickly. 
 
+The output display (Piezo Buzzer) works 100% as intended, it makes a buzz once when the button is pressed, and once when the button is left go. 
+
+The Manual User Input (interaction with user) is the button that works 100% since it starts all the programs when clicked, and stops when let go. 
+
+The Automatic Sensor (response without user input) is our light sensor that works about 75% because it's difficult make the lighting a very specific and constant number to reach everytime, which programs our piston to launch. 
 
 # Parts List
 
