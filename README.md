@@ -1,4 +1,9 @@
-# EDD-Capstone - "Web" Shooter - Ronald G & Christina C
+# 🎉 EDD-Capstone - "Web" Shooter 🥎
+
+Group Memebers: Ronald G & Christina C
+
+May 26th, 2026
+
 Our Capstone project is inspired by a Spider-Man web shooter toy, but in our project, when a button is pressed, toy balls will launch. 
 
 The product will be a boxed mechanism placed on top of your arm, held by a velcro strap, to appear as a robot arm. There will be an opening on the boxed arm to release the balls (similar to a Nerf Gun), an LED light to signal what action is going on, a sound buzzer when a button is pressed, and a button switch to activate the launch. 
@@ -17,3 +22,18 @@ This is a documentation of our functioning codes since the beginning of the proj
 Now, midway through our project, we have made significant changes and improvements with many test runs to make sure our project keeps running smoothly as we add things on. 
 
 We have our output display, which is the piezo buzzer that buzzes when the button is held down and then again. We have the manual user input which is the button thats starts all of our functioning parts when pressed. We don't currently have an automatic sensor, but we plan on adding an ultrasonic sensor soon to measure the distance or scoop out the distance around it. For actuators we have 2 motors that move gears that we're going to use to push the balls through our tube. Mechanism and hardware is all the parts we used (gears & screws etc) to design our project and we added a pneumatics system. When the button is pressed our pneumatic piston will shoot our and then retract and keep repeating the process as we hold the button down. Finally our logic and processing is our arduino board that we have programmed to have all our parts work together. Now that our project is almost, what we need to focus on is adding our sensor and 3d printing our tube and funnel for the balls. Once we print out our part and do many tests ensuring it works, we will add a case over it all to make the design more put together. For the case we're still unsure if we would 3d print it because of the lack of filament, but if we can't we plan on using carboard and paint. 
+
+# Design Summary 
+The "Web" Shooter is a projectile launcher that launches out a foam ball when the button is pressed, and when the optical sensing alerts the piston to launch.
+
+
+# System Details 
+
+
+# Design Evaluation 
+
+
+# Parts List
+
+
+# Lessons Learned
