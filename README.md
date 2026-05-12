@@ -21,7 +21,9 @@ The Manual User Input (interaction with the user) is the button that works 100% 
 
 The Automatic Sensor (response without user input) is our light sensor that works as intended, but about 75% because it's difficult to make the lighting a very specific and constant number to reach every time, which programs our piston to launch. 
 
-Our Actuators (VEX motors and L298N DC Motor Driver) work 100% as intended. The VEX Motors start spinning when the button is clicked and stop when released. The L298N board wokrs to send power 
+Our Actuators (VEX motors and L298N DC Motor Driver) work 100% as intended. The VEX Motors start spinning when the button is clicked and stop when released. The L298N board sends power to the Arduino board to power all of our wiring.
+
+The Mechanisms & Hardware meet the correct functions since we used a reasonable and effective use of VEX parts, and only 3d printed what was necessary for our project, such as a funnel to put the balls through, a tube to lead the ball, a small case to capture the ball before launch, and a cover to help the lighting on the light sensor. 
 
 # Parts List 🗒️
 - Arduino Uno board x1
