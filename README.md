@@ -2,48 +2,45 @@
 
 Group Members: Ronald G & Christina C
 
-May 26th, 2026
+May 28th, 2026
 
-Our Capstone project is inspired by a Spider-Man web shooter toy, but in our project, when a button is pressed, toy balls will launch. 
-
-The product will be a boxed mechanism placed on top of your arm, held by a velcro strap, to appear as a robot arm. There will be an opening on the boxed arm to release the balls (similar to a Nerf Gun), an LED light to signal what action is going on, a sound buzzer when a button is pressed, and a button switch to activate the launch. 
-The idea for our mechanism is similar to a Nerf gun; we're using gears and springs to lock the springs in place. Once it's locked in, it will launch out and reel back to its original position. We're also using two motors to power the gears along with batteries. The button switch is programmed through our code in Arduino, along with the Piezo buzzer. Inside the boxed arm, we have multiple wires hooked to the Arduino board that power the button switch, LN298 board, and piezo buzzer. 
-
-
-# Beginning look of our prototype 
-![IMG_8952](https://github.com/user-attachments/assets/87a147b0-8ba2-49f9-ae84-b013784c5bfb)
-
-# Halfway mark!
-
-This is a documentation of our functioning codes since the beginning of the project till now to keep track of all our code. 
-[Code Notes](https://docs.google.com/document/d/1aygtcGMryrG_v3qcCS58LXSgcec-9Tg7EqTyxFDKlqY/edit?usp=sharing)
-
-
-Now, midway through our project, we have made significant changes and improvements with many test runs to make sure our project keeps running smoothly as we add things on. 
-
-We have our output display, which is the piezo buzzer that buzzes when the button is held down and then again. We have the manual user input, which is the button that starts all of our functioning parts when pressed. We don't currently have an automatic sensor, but we plan on adding an ultrasonic sensor soon to measure the distance or scoop out the distance around it. For actuators, we have 2 motors that move gears that we're going to use to push the balls through our tube. Mechanism and hardware are all the parts we used (gears & screws, etc.) to design our project, and we added a pneumatic system. When the button is pressed, our pneumatic piston will shoot out and then retract, and keep repeating the process as we hold the button down. Finally, our logic and processing is the Arduino board that we have programmed to have all our parts work together. Now that our project is almost done, what we need to focus on is adding our sensor and 3d printing our tube and funnel for the balls. Once we print out our part and do many tests ensuring it works, we will add a case over it all to make the design more put together. In this case, we're still unsure if we would 3d print it because of the lack of filament, but if we can't, we plan on using cardboard and paint. 
 
 # Design Summary ☁️
 The "Web" Shooter is a projectile launcher that launches a foam ball when the button is pressed, and when the optical sensing alerts the piston to launch.
 
 
 # System Details 📐
-
+So
 
 # Design Evaluation 🧐
 The success of our project is at 90% because it does as intended, but the only issue is that the air runs out quickly. 
 
-The output display (Piezo Buzzer) works 100% as intended; it makes a buzz once when the button is pressed and once when the button is released. 
+The output display (Piezo Buzzer) works 100% as intended: it makes a single buzz when the button is pressed and another when the button is released. 
 
-The Manual User Input (interaction with user) is the button that works 100% since it starts all the programs when clicked, and stops when let go. 
+The Manual User Input (interaction with the user) is the button that works 100% since it starts all the programs when clicked and stops when released. 
 
-The Automatic Sensor (response without user input) is our light sensor that works about 75% because it's difficult to make the lighting a very specific and constant number to reach every time, which programs our piston to launch. 
+The Automatic Sensor (response without user input) is our light sensor that works as intended, but about 75% because it's difficult to make the lighting a very specific and constant number to reach every time, which programs our piston to launch. 
+
+Our Actuators (VEX motors and L298N DC Motor Driver) work 100% as intended. The VEX Motors start spinning when the button is clicked and stop when released. The L298N board wokrs to send power 
 
 # Parts List 🗒️
+- Arduino Uno board x1
+- VEX Bumper Switch x1
+- VEX Light Sensor x1
+- L298N DC Motor Driver x1
+- VEX 2-wire motor 393 x2
+- Piezo Buzzer x1
+- Pnuematics kit x1
+- VEX gears x4
+- Screws
+- Lots of wires
+- 9V Batteries x2
+- 3d printed parts
 
 
 # Lessons Learned 🤔
-
-
+We 
 
 # Instructions ❗
+
+The
