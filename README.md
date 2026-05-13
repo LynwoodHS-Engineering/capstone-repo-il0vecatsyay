@@ -43,10 +43,14 @@ The Mechanisms & Hardware meet the correct functions since we used a reasonable 
 
 
 # Lessons Learned 🤔
-At the beginning of our project, we didn't know how to properly wire our motors to the L298N board, so we ended up frying the board. The issue was that we wired both of our motors to one side of the L298N board and thought it was fine since our systems were working, but we soon realized that we weren't distributing power correctly. Once we fixed the issue and properly wired it, we saw a huge change in our motors, seeing as they started to run faster and smoother. 
+At the beginning of our project, we didn't know how to wire our motors to the L298N board properly, so we ended up frying the board. The issue was that we wired both of our motors to one side of the L298N board and thought it was fine since our systems were working, but we soon realized that we weren't distributing power correctly. Once we fixed the issue and properly wired it, we saw a huge change in our motors, seeing as they started to run faster and smoother. 
 
-Another big challenge we faced was trying to figure out how the pneumatic piston kit worked since we had never learned it before. We looked up multiple ways and tutorials on how to build and program it, but we had no success. We spent a week of testing and failures before we finally found a well-explained tutorial, but the new issue was trying to get it to work. After many more tests and failures, we used the Visual Studio Code software to help program the piston, and to our success, we were finally able to get the piston working. 
+Another big challenge we faced was figuring out how the pneumatic piston kit worked, since we had never learned it before. We looked up multiple ways and tutorials on how to build and program it, but we had no success. We spent a week of testing and failures before we finally found a well-explained tutorial, but the new issue was getting it to work. After many more tests and failures, we used Visual Studio Code software for assitance on programing the piston, and to our success, we were finally able to get the piston working. 
 
 # Instructions ❗
-
-The
+1. We drew in our engineering notebook a basic but detailed drawing of what he wanted our project to be.
+2. We gathered two C-channels and a flat square channel to place on top of both channels to separate them, but also keep them connected, which we call the base of the project. 
+3. Once we had our base, we got 4 small gears, 2 shafts, and 2 motors, where we put the gears inside the separated C-channels and connected the motors to the shaft to power the gears.
+4. That's when we got the L298N board and Arduino Uno board and started wiring them based on the picture on the website (Last Minute Engineers).
+5. Then we got a bumper switch to make the motors start when we pressed the button and stop when we let go. We plugged the signal pin to the white wire and the black wire to GND.
+6. Test to see if your motors work and stop when the bumper switch is pressed and released. 
