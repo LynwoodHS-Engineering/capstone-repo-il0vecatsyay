@@ -38,14 +38,12 @@ The Mechanisms & Hardware meet the correct functions since we used a reasonable 
 - Piezo Buzzer x1
 - Pnuematics kit x1
 - VEX gears x4
-- Screws
-- Lots of wires
 - 9V Batteries x2
 - 3d printed parts
 
 
 # Lessons Learned 🤔
-We 
+At the beginning of our project, we didn't know how to properly wire our motors to the L298N board, so we ended up frying the board. The issue was that we wired both of our motors to one side of the L298N board and thought it was fine since our systems were working.
 
 # Instructions ❗
 
