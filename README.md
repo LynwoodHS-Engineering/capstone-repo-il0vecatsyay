@@ -1,3 +1,7 @@
+<img width="752" height="1002" alt="0" src="https://github.com/user-attachments/assets/7c5d4709-4238-43fc-a4c2-52bfac0107d7" />
+<img width="752" height="1002" alt="0" src="https://github.com/user-attachments/assets/5ae30dde-c7bf-4c37-9c00-356508f4add6" />
+<img width="752" height="1002" alt="0" src="https://github.com/user-attachments/assets/6d9eb1bf-202c-4669-9980-afeeba8cd7d9" />
+<img width="752" height="1002" alt="0" src="https://github.com/user-attachments/assets/81bdd5d4-c6f4-4a8b-863e-f69a17af6d75" />
 # 🎉 EDD-Capstone - "Web" Shooter 🥎
 
 Group Members: Ronald G & Christina C
