@@ -43,7 +43,9 @@ The Mechanisms & Hardware meet the correct functions since we used a reasonable 
 
 
 # Lessons Learned 🤔
-At the beginning of our project, we didn't know how to properly wire our motors to the L298N board, so we ended up frying the board. The issue was that we wired both of our motors to one side of the L298N board and thought it was fine since our systems were working.
+At the beginning of our project, we didn't know how to properly wire our motors to the L298N board, so we ended up frying the board. The issue was that we wired both of our motors to one side of the L298N board and thought it was fine since our systems were working, but we soon realized that we weren't distributing power correctly. Once we fixed the issue and properly wired it, we saw a huge change in our motors, seeing as they started to run faster and smoother. 
+
+Another big challenge we faced was trying to figure out how the pneumatic piston kit worked since we had never learned it before. We looked up multiple ways and tutorials on how to build and program it, but we had no success. We spent a week of testing and failures before we finally found a well-explained tutorial, but the new issue was trying to get it to work. After many more tests and failures, we used the Visual Studio Code software to help program the piston, and to our success, we were finally able to get the piston working. 
 
 # Instructions ❗
 
