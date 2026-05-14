@@ -46,8 +46,20 @@ Another big challenge we faced was figuring out how the pneumatic piston kit wor
 
 # Instructions ❗
 1. We drew in our engineering notebook a basic but detailed drawing of what he wanted our project to be.
-2. We gathered two C-channels and a flat square channel to place on top of both channels to separate them, but also keep them connected, which we call the base of the project. 
+2. We got two C-channels and a long flat channel to place the C-channels on the edge of each side, facing inwards. Then get a flat square channel to place on top of both channels to separate them, but also keep them connected, which we call the base of the project. 
 3. Once we had our base, we got 4 small gears, 2 shafts, and 2 motors, where we put the gears inside the separated C-channels and connected the motors to the shaft to power the gears.
 4. That's when we got the L298N board and Arduino Uno board and started wiring them based on the picture on the website (Last Minute Engineers).
 5. Then we got a bumper switch to make the motors start when we pressed the button and stop when we let go. We plugged the signal pin to the white wire and the black wire to GND.
-6. Test to see if your motors work and stop when the bumper switch is pressed and released. 
+6. Test to see if your motors work and stop when the bumper switch is pressed and released.
+7. Screw the L298N board to the flat square channel and set the Arduino to the side.
+8. Get two angle channels and put them on each side of the base (C-channels), facing out.
+9. Get two smaller angle channels and four spacers. Screw the small-angle channels with the spacer between the angle channels to the very top of the other angle channels, facing inwards, so it creates a case.
+10. Get another flat square channel and put it on the top of the case (angle channels) opposite to the L298N board, basically on the edge of the case.
+11. Now you're going to cut a square on the other end of the case, but not completely to the edge, to keep the two angle channels connected, to create a hole for a tube later on.
+12. Once you create the cut, you can screw the Arduino Uno onto the flat square channel on the other side of the case.
+13. Then get the VEX pneumatics kit and
+14. Once you've got the kit set up, we're going to move it around and place it on our project. Get the piston and tape it to the bottom of the base with the piston facing away from the L298N board so it can launch the ball towards the end.
+15. Get the switch from the pneumatics kit and screw it on one of the sides of the base so it can stay in place. Play around with the tubes so they won't be sticking out around the project, such as how we placed the tubes going in and out of the channels (refer to our photo in the beginning), so they won't be in the way.
+16. Get (forgot the name) and place it inside the base in the back where the L298N board is, and place the tubes through the channels so the (thing) won't move out of the base.
+17. Get the reservoir and (power tube thing idk) and place it on the same side where the switch is and screw on the (power thing idk), but you don't need to have the reservoir connected; only when you're going to start using the launcher, you need to connect it.
+18. Now that the pneumatics are set up nicely on the project, at the opposite end of the L298N board, where the gears are, you're going to make a square cut of the base (the flat channel). That cut is made so that when a ball falls, the piston can reach and launch it. 
