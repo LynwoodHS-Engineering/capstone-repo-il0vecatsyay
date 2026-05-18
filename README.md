@@ -59,7 +59,14 @@ Another big challenge we faced was figuring out how the pneumatic piston kit wor
 12. Once you create the cut, you can screw the Arduino Uno onto the flat square channel on the other side of the case.
 13. Then get the VEX pneumatics kit and
 14. Once you've got the kit set up, we're going to move it around and place it on our project. Get the piston and tape it to the bottom of the base with the piston facing away from the L298N board so it can launch the ball towards the end.
-15. Get the switch from the pneumatics kit and screw it on one of the sides of the base so it can stay in place. Play around with the tubes so they won't be sticking out around the project, such as how we placed the tubes going in and out of the channels (refer to our photo in the beginning), so they won't be in the way.
+15. Get the switch from the pneumatics kit and screw it on one of the sides of the base so it can stay in place. Please adjust the tubes so they don't stick out around the project, as we did with the tubes going in and out of the channels (see our photo at the beginning), so they don't get in the way.
 16. Get (forgot the name) and place it inside the base in the back where the L298N board is, and place the tubes through the channels so the (thing) won't move out of the base.
 17. Get the reservoir and (power tube thing idk) and place it on the same side where the switch is and screw on the (power thing idk), but you don't need to have the reservoir connected; only when you're going to start using the launcher, you need to connect it.
-18. Now that the pneumatics are set up nicely on the project, at the opposite end of the L298N board, where the gears are, you're going to make a square cut of the base (the flat channel). That cut is made so that when a ball falls, the piston can reach and launch it. 
+18. Now that the pneumatics are set up nicely on the project, at the opposite end of the L298N board, where the gears are, you're going to make a square cut of the base (the flat channel). That cut is made so that when a ball falls, the piston can reach and launch it.
+19. Now that the cut is done, you have an empty square. Get two small 3-inch angle channels and screw them on the base, facing inwards, so that the piston can push out of them.
+20. Then we created a ball catcher tube on Onshape that we screw onto the two 3-inch channels, so that when we create the tube, they fall out and land into the catcher securely, and then the piston will shoot.
+21. We created the tube that will go into the square cut we made on the case on Onshape. We measured it to our project size and added cuts on the bottom of the tube for the gears because the gears will push the balls out onto the catcher.
+22. Once the ball catcher and tube was 3d printed and screwed on, we did a few tests to make sure the foam balls came out smoothly.
+23. We added the VEX light sensor and attached it to the side of the project, and then 3d printed a cover for it, so that when it detects the dark, the piston will shoot.
+24. We created and 3d printed a bigger funnel to add onto the top of the tube to make it quicker and essential for dropping the foam ball in.
+25. Now we do a lot of testing to make sure our project works smoothly.  
