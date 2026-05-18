@@ -11,7 +11,10 @@ The "Web" Shooter is a projectile launcher that launches a foam ball when the bu
 
 
 # System Details 📐
-So
+<img width="1094" height="759" alt="Sketch_Skematic" src="https://github.com/user-attachments/assets/80f8060c-d814-4086-9502-304df728fb51" />
+<img width="802" height="598" alt="Screenshot_18-5-2026_112717_docs google com" src="https://github.com/user-attachments/assets/f1490eea-0848-458a-a9a1-792ad8ada7e6" />
+
+
 
 # Design Evaluation 🧐
 The success of our project is at 90% because it does as intended, but the only issue is that the air runs out quickly. 
