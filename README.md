@@ -55,7 +55,7 @@ Another big challenge we faced was figuring out how the pneumatic piston kit wor
 
 # Instructions ❗
 1. We drew in our engineering notebook a basic but detailed drawing of what he wanted our project to be.
-2. We got two C-channels and a long flat channel to place the C-channels on the edge of each side, facing inwards. Then get a flat square channel to place on top of both channels to separate them, but also keep them connected, which we call the base of the project. 
+2. We got two C-channels and a long flat channel to place the C-channels on top of the flat channel on the edge of each side, facing inwards. Then get a flat square channel to place on top of both channels to separate them, but also keep them connected, which we call the base of the project. 
 3. Once we had our base, we got 4 small gears, 2 shafts, and 2 motors, where we put the gears inside the separated C-channels and connected the motors to the shaft to power the gears.
 4. That's when we got the L298N board and Arduino Uno board and started wiring them based on the picture on the website (Last Minute Engineers).
 5. Then we got a bumper switch to make the motors start when we pressed the button and stop when we let go. We plugged the signal pin to the white wire and the black wire to GND.
@@ -66,11 +66,11 @@ Another big challenge we faced was figuring out how the pneumatic piston kit wor
 10. Get another flat square channel and put it on the top of the case (angle channels) opposite to the L298N board, basically on the edge of the case.
 11. Now you're going to cut a square on the other end of the case, but not completely to the edge, to keep the two angle channels connected, to create a hole for a tube later on.
 12. Once you create the cut, you can screw the Arduino Uno onto the flat square channel on the other side of the case.
-13. Then get the VEX pneumatics kit and
+13. Then get the VEX pneumatics kit, cut the tubes to the length you would need based on your sizing, plug the tubes into the correct places based on the second photo in "System Details."
 14. Once you've got the kit set up, we're going to move it around and place it on our project. Get the piston and tape it to the bottom of the base with the piston facing away from the L298N board so it can launch the ball towards the end.
-15. Get the switch from the pneumatics kit and screw it on one of the sides of the base so it can stay in place. Please adjust the tubes so they don't stick out around the project, as we did with the tubes going in and out of the channels (see our photo at the beginning), so they don't get in the way.
-16. Get (forgot the name) and place it inside the base in the back where the L298N board is, and place the tubes through the channels so the (thing) won't move out of the base.
-17. Get the reservoir and (power tube thing idk) and place it on the same side where the switch is and screw on the (power thing idk), but you don't need to have the reservoir connected; only when you're going to start using the launcher, you need to connect it.
+15. Get the switch from the pneumatics kit and screw it on one of the sides of the base so it can stay in place. Adjust the tubes so they don't stick out around the project, as we did with the tubes going in and out of the channels (see our photo at the beginning), so they don't get in the way.
+16. Get the solenoid and place it inside the base in the back, where the L298N board is, and place the tubes through the channels so the tubes won't move. 
+17. Get the reservoir and pressure regulator and place it on the same side as the switch. You don't need to have the reservoir connected; only when you're going to start using the launcher, you need to connect it.
 18. Now that the pneumatics are set up nicely on the project, at the opposite end of the L298N board, where the gears are, you're going to make a square cut of the base (the flat channel). That cut is made so that when a ball falls, the piston can reach and launch it.
 19. Now that the cut is done, you have an empty square. Get two small 3-inch angle channels and screw them on the base, facing inwards, so that the piston can push out of them.
 20. Then we created a ball catcher tube on Onshape that we screw onto the two 3-inch channels, so that when we create the tube, they fall out and land into the catcher securely, and then the piston will shoot.
