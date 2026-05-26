@@ -36,7 +36,13 @@ The Mechanisms & Hardware meet the correct functions since we used a reasonable 
 - L298N DC Motor Driver x1
 - VEX 2-wire motor 393 x2
 - Piezo Buzzer x1
-- Pnuematics kit x1
+- Reservoir x1
+- Solenoid x1
+- Double Axle Piston x1
+- Pressure Regulator x1
+- Tubing (about 1.5 ft)
+- Fittings/Connecters x7
+- Air Compressor x1
 - VEX gears x4
 - 9V Batteries x2
 - 3d printed parts
